@@ -1,3 +1,4 @@
+/* global __DEV__ */
 import AsyncStorage from '@react-native-async-storage/async-storage'
 import { combineReducers } from 'redux'
 import {
