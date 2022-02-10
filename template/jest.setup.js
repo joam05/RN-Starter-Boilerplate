@@ -1,4 +1,4 @@
-import {jest} from '@jest/globals'
+import { jest } from '@jest/globals'
 
 import mockAsyncStorage from '@react-native-async-storage/async-storage/jest/async-storage-mock'
 import 'react-native-gesture-handler/jestSetup'

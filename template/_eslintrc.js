@@ -1,9 +1,9 @@
 module.exports = {
   env: {
     'jest/globals': true,
-    "browser": true,
-    "amd": true,
-    "node": true
+    browser: true,
+    amd: true,
+    node: true,
   },
   root: true,
   extends: ['@react-native-community'],
